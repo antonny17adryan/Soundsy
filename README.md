@@ -1,10 +1,10 @@
 # Soundsy
 ## Trabalho de POO – PROJETO 2 BIMESTRE  
 Integrantes:  
--Enrico Rodrigues Fernandes da Paz 
--Antonny Adryan de Andrade 
--Débora Emanuelly Pinheiro Lopes 
--Hemilly Barbosa Gomes 
+- Enrico Rodrigues Fernandes da Paz 
+- Antonny Adryan de Andrade 
+- Débora Emanuelly Pinheiro Lopes 
+- Hemilly Barbosa Gomes 
 
 ### Soundsy 
 
